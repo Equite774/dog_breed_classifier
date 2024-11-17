@@ -23,3 +23,6 @@ TestResults.xml
 
 dogenv/
 dogbreeds/
+.DS_Store
+model1114.pth
+model1115.pth
